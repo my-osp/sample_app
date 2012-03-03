@@ -33,5 +33,5 @@ group :production do
 end
 
 gem 'execjs'
-
+gem 'thin'
 gem 'therubyracer'
